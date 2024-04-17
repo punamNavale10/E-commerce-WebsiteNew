@@ -17,7 +17,7 @@ Templates, on the other hand, represent the presentation layer of the applicatio
 dynamically based on views' data, promoting code reusability and maintainability.
 
 
-DataBases
+Database : 
 SQLite is a lightweight, serverless, self-contained, and embedded SQL database engine, popular in development and testing environments due to its simplicity and ease of setup. It directly accesses 
 database files, making it suitable for small to medium-sized applications with low to moderate traffic. Django creates a default database configuration in the project's settings file, using SQLite as 
 the database engine. SQLite databases are portable, allowing easy sharing or deployment with the application.
