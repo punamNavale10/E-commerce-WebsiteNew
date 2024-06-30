@@ -5,10 +5,12 @@ Model-View-Template (MVT) architecture. With SQLite as the default database engi
 and order management, and responsive design for optimal accessibility across devices.
 
 Frontend: HTML, CSS, JavaScript
+<br>
 Our frontend is built using standard web technologies like HTML, CSS, and JavaScript, allowing us to create dynamic and visually appealing user interfaces. By combining these languages with Django's 
 templating engine, we deliver a seamless browsing experience that is both intuitive and responsive across various devices.
 
 Backend : Django
+<br>
 Django is a high-level Python web framework that enables rapid development of secure and scalable web applications.
 In Django, the architecture pattern used is called the Model-View-Template (MVT) pattern, 
 Models are Python classes that define the data schema and interact with the database, typically corresponding to a database table. 
@@ -17,7 +19,8 @@ Templates, on the other hand, represent the presentation layer of the applicatio
 dynamically based on views' data, promoting code reusability and maintainability.
 
 
-Database : 
+Database : SQLite
+<br>
 SQLite is a lightweight, serverless, self-contained, and embedded SQL database engine, popular in development and testing environments due to its simplicity and ease of setup. It directly accesses 
 database files, making it suitable for small to medium-sized applications with low to moderate traffic. Django creates a default database configuration in the project's settings file, using SQLite as 
 the database engine. SQLite databases are portable, allowing easy sharing or deployment with the application.
