@@ -1,3 +1,4 @@
+# E-commerse Website
 
 Our e-commerce website utilizes a robust tech stack to deliver a seamless user experience. The frontend is crafted using standard web technologies like HTML, CSS, and JavaScript, 
 combined with Django's templating engine for dynamic and responsive interfaces. Django serves as the backend, offering rapid development, security, and scalability through its 
